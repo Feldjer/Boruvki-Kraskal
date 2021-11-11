@@ -134,5 +134,3 @@ for i in mas_edge_print:
 string = string + str(summa)
 
 print(string)
-
-print()
