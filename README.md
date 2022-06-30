@@ -1,4 +1,4 @@
 # Boruvki-Kraskal
-Jira for project
+Project for Jira
 ## Jira
 ## actions
