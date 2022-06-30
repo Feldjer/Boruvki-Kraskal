@@ -1,2 +1,2 @@
-# Boruvki-Kraskal
+Boruvki-Kraskal
 Project for Jira
